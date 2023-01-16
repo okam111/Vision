@@ -1,0 +1,40 @@
+html{
+    background-color: #FCEBD6;
+    
+}
+.Header{
+    background-color:#cecece;
+    max-height: 5%;
+    display: flex;
+    z-index: 0;
+}
+.Dropdown{
+    max-width: 10%;
+    align-items: center;
+    align-content: left,center;
+    margin: auto;
+}
+.Title{
+    width: 80%;
+    text-align: center;
+    max-height: 100%;
+}
+.Logins{
+    width: 10%;
+    align-content: right;
+    margin: auto;
+    
+}
+.Titletext{
+    font-size: 200%;
+}
+.Cover{
+    height: 500px;
+    width: 100%;
+    z-index: -2;
+    margin: 8px;
+    background-image:url(Images/BackgroundD.png);
+}
+body{
+    margin: 8px;
+}
